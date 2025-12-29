@@ -1,0 +1,6 @@
+* Estrutura HTML da página Home construída, exceto os links e as referências de id's. Talvez seja interessante substituir algumas das classes criadas por id's, para deixar o código mais limpo...
+	Feito isso, posso partir para a estilização, e após, a construção da página Preços. - 09/12.
+
+* Links e id's criados e funcionando. Iniciando a estilização da página Home. - 10/12.
+
+*
